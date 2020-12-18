@@ -1,0 +1,2 @@
+# PIAIC_AI
+Assignments
